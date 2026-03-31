@@ -1,1 +1,13 @@
 
+# حساس / sensitive files
+config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional (if you add uploads later)
+uploads/
